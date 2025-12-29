@@ -1,0 +1,33 @@
+div .h1{
+
+}
+.header h1 span{
+    color: #a2d30fd6;
+}
+div.container{
+    display: flex;
+    padding: 10vh;
+}
+div.left, .right{
+    width: 50%;
+    padding: 30px;
+}
+.left{
+    width: 50%;
+    padding: 30px;
+    background-image: url("caus.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.title{
+    margin-left: 40px;
+}
+
+.btmk{
+     display: flex;
+     align-items: center;
+     padding: 30px; 
+     background-color: rgba(143, 146, 147, 0.639); 
+     color: white;
+}
